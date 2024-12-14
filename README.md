@@ -1,6 +1,9 @@
 # YAPTIKLARIM-EÖ
 
-Departman,fakültelerin sayısı kaç tane var. Kaç tane kadın-erkek var all.Şehre ve ünvana ve devlet-vakıf bilgisine göre genderlar, Ünilerde bulunan kişilerin genderi. Ünvan dağılımı ve genderların etkisi. hangi şehir daha fazla title(count toplam miktarı) yazmış,devlet ve özel üni yayın sayısı. Hangi title'ın kaç tane makalesi var. Hangi şehirde, kaç tane ünvan var, hangi faculty'de de kaç tane count var hangi deparmtanda kaç tane count  var, hangi şehitde kaç tane devlet-vakıf sayısı
+Departman,fakültelerin sayısı kaç tane var. Kaç tane kadın-erkek var all.Şehre ve ünvana ve devlet-vakıf bilgisine göre genderlar, Ünilerde bulunan kişilerin genderi. Ünvan dağılımı ve genderların etkisi. hangi şehir daha fazla title(count toplam miktarı) yazmış,devlet ve özel üni yayın sayısı. Hangi title'ın kaç tane makalesi var. Hangi şehirde, kaç tane ünvan var, hangi faculty'de de kaç tane count var hangi deparmtanda kaç tane count  var, hangi şehitde kaç tane devlet-vakıf sayısı. Faculty_of_universities_number_of_titles--> hani ünide hangi fakültede article sayısı.
+
+
+
 
 
 
