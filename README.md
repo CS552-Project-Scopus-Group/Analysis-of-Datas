@@ -4,7 +4,8 @@ Departman,fakültelerin sayısı kaç tane var. Kaç tane kadın-erkek var all.�
 
 
 
-
+# YAPTIKLARIM- ABT
+Yıllara göre Makale Sayısı dağılımı, Yıllara göre Gender - title sayısı dağılımı, yıllara göre gender - makale sayısı, yıllara göre üniversite - makale yayını dağılımı, yıllara göre şehir makale sayısı dağılımı incelendi.
 
 
 
