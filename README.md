@@ -6,7 +6,12 @@ Departman,fakültelerin sayısı kaç tane var. Kaç tane kadın-erkek var all.�
 
 # YAPTIKLARIM- ABT
 Emrenin çalıştığı excel deki hatalar düzeltildi çift isimler silindi ve yaptığı tüm çalışma düzeltilmiş excel ile tekrarlandı, hatalı olan analizler düzeltilip dosyalar güncellendi. Ek olarak aşağıdaki çalışmalar yapıldı;
-Yıllara göre Makale Sayısı dağılımı, Yıllara göre Gender - title sayısı dağılımı, yıllara göre gender - makale sayısı, yıllara göre üniversite - makale yayını dağılımı, yıllara göre şehir makale sayısı dağılımı incelendi.
+
+**Matched Datas için;**
+Faculty_of_Universities_number_of_titles, gender_distribution_by_city, gender_distribution_by_type, number_by_title_and_city
+
+**Scopus Dataset için;**
+No_of_Article_by_Year_Faculty_Based, Year_City_Number_of_Article, Department_Article_Count, Faculty_Article_Count_Post_1990_Filtered, Year-Number_of_Articles Analizleri yapıldı.
 
 
 
@@ -18,3 +23,6 @@ profların kaç makalesi, diğerlerin kaç makalesi var vs
 Devlet ünilerinde mi daha çok kadın çalışıyor ve makele yazmış yoksa özellerde daha mı çok bu sayı? BUNUN İÇİN ÖNCE DEVLET VE VAKIF OLARAK LABEL'LAMAK GEREKİYOR!!! vikipedidan scrap ile yapılabilir tekrardan.
 Yıllara göre makale sayısı dağılımları, 
 İllere göre ve okullara göre makale sayısı dağılımları.
+Yıllara göre Gender - title sayısı dağılımı
+Yıllara göre gender - makale sayısı, 
+yıllara göre üniversite - makale yayını dağılımı,
