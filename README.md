@@ -5,7 +5,7 @@ Departman,fakültelerin sayısı kaç tane var. Kaç tane kadın-erkek var all.�
 
 
 # YAPTIKLARIM- ABT
-Emrenin çalıştığı excel deki hatalar düzeltildi çift isimler silindi ve yaptığı tüm çalışma tekrarlandı, hatalı olan analizler düzeltilip dosyalar güncellendi. Ek olarak aşağıdaki çalışmalar yapıldı;
+Emrenin çalıştığı excel deki hatalar düzeltildi çift isimler silindi ve yaptığı tüm çalışma düzeltilmiş excel ile tekrarlandı, hatalı olan analizler düzeltilip dosyalar güncellendi. Ek olarak aşağıdaki çalışmalar yapıldı;
 Yıllara göre Makale Sayısı dağılımı, Yıllara göre Gender - title sayısı dağılımı, yıllara göre gender - makale sayısı, yıllara göre üniversite - makale yayını dağılımı, yıllara göre şehir makale sayısı dağılımı incelendi.
 
 
