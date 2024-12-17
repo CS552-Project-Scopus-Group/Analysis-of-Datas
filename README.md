@@ -5,7 +5,8 @@ Departman,fakültelerin sayısı kaç tane var. Kaç tane kadın-erkek var all.�
 
 
 # YAPTIKLARIM- ABT
-Emrenin çalıştığı excel deki hatalar düzeltildi çift isimler silindi ve yaptığı tüm çalışma düzeltilmiş excel ile tekrarlandı, hatalı olan analizler düzeltilip dosyalar güncellendi. Ek olarak aşağıdaki çalışmalar yapıldı;
+Emrenin çalıştığı excel deki hatalar düzeltildi çift isimler silindi ve yaptığı tüm çalışma düzeltilmiş excel ile tekrarlandı, hatalı olan analizler düzeltilip dosyalar güncellendi, diğerleri değiştirilmedi
+. Ek olarak aşağıdaki çalışmalar yapıldı;
 
 **Matched Datas için;**
 Faculty_of_Universities_number_of_titles, gender_distribution_by_city, gender_distribution_by_type, number_by_title_and_city
